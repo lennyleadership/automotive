@@ -58,7 +58,11 @@ toc: true
     </p></td>    
   </tr>
   <tr>
-    <td><p>sentence left
+    <td><p>
+    <figure>
+  <img width = "540" src = "/docs/images/intake-stroke.jpg"/>
+  <figcaption class = "bottom">Intake Stroke</figcaption>
+</figure>
     </p></td>
     <td><p> sentence right.
     </p></td>
