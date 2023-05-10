@@ -64,7 +64,11 @@ toc: true
   <figcaption class = "bottom">Intake Stroke</figcaption>
 </figure>
     </p></td>
-    <td><p> sentence right.
+    <td><p>
+    <figure>
+  <img width = "540" src = "/docs/images/4-stroke-animation.gif"/>
+  <figcaption class = "bottom">Four-stroke gasoline direct-injected engine animation</figcaption>
+</figure>
     </p></td>
   </tr>
 </tbody>
