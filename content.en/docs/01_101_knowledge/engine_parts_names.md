@@ -50,6 +50,12 @@ toc: true
   <figcaption class = "bottom">Timing gears, camshaft and valve mechanism</figcaption>
 </figure>
     </p></td>
+    <td><p>
+    <figure>
+  <img width = "540" src = "/docs/images/camshaft-position-sensor.jpg"/>
+  <figcaption class = "bottom">camshaft position sensor</figcaption>
+</figure>
+    </p></td>    
   </tr>
   <tr>
     <td><p>sentence left
