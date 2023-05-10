@@ -43,5 +43,19 @@ toc: true
     <td><p> sentence right.
     </p></td>
   </tr>
+  <tr>
+    <p>
+    <figure>
+  <img width = "540" src = "/docs/images/camshaft module.jpg"/>
+  <figcaption class = "bottom">Timing gears, camshaft and valve mechanism</figcaption>
+</figure>
+    </p>
+  </tr>
+  <tr>
+    <td><p>sentence left
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
 </tbody>
 </table>
