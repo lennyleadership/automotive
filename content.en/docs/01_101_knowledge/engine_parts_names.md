@@ -16,3 +16,32 @@ toc: true
 <!--more-->
 ---
 
+<table >
+<caption style="text-align:left", align = "top"><b></b></caption>
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
+</colgroup>
+<thead>
+  <tr VALIGN=TOP style="text-align:left"  class="header">
+    <th><p>Engine Parts</p></th>
+    <th><p>Engine Parts</p></th>
+  </tr>
+</thead>
+<tbody VALIGN=TOP>
+  <tr>
+    <td><p>
+    <figure>
+  <img width = "540" src = "/docs/images/intake valve.jpeg"/>
+  <figcaption class = "bottom">intake valve</figcaption>
+</figure>
+    </p></td>
+    <td><p>sentence right.
+    </p></td>
+  </tr>
+  <tr>
+    <td><p>sentence left
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
+</tbody>
+</table>

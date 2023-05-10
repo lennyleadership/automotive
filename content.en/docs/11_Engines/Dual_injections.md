@@ -35,9 +35,7 @@ That's just the tip of the iceberg for why manufacturers love to double-down on 
 # Transcript
 
 
-Hello, everyone, and welcome. In this video, we're talking about why some companies are choosing to use both port and direct injection with their engines. Now, way back in the day, engines were carbureted. 
-
-Then they moved on to port injection, then they moved on to direct injection. And now it's becoming increasingly common to see engines using both port and direct injection. And the reason isn't all that simple. 
+Hello, everyone, and welcome. In this video, we're talking about why some companies are choosing to use both port and direct injection with their engines. Now, way back in the day, engines were carbureted. Then they moved on to port injection, then they moved on to direct injection. And now it's becoming increasingly common to see engines using both port and direct injection. And the reason isn't all that simple. 
 
 There's actually quite a few advantages of doing this. And so that's what we're going to get into in this video. All right, so let's start simple and then work our way through it. So port injection, meaning you are injecting that fuel before your intake valve before it enters that cylinder. 
 
@@ -85,7 +83,7 @@ And they have two different modes that this runs in, which are pretty fascinatin
 
 And so what happens with this stratified mode during the exhaust stroke? So the exhaust valve is open, the intake valve is closed. They actually start injecting fuel, so they're starting injection before your intake stroke actually begins, they push out that exhaust, the intake stroke begins, and they stop injecting fuel from the port injector. 
 
-So that port injector first. Just during that stroke, the intake stroke comes down. Then you have your compression stroke. And right before that compression stroke starts to get up towards the top, as it's getting closer to the top, the piston itself actually has a contour in it. 
+So that port injector first. Just during that exhaust stroke, the intake stroke comes down. Then you have your compression stroke. And right before that compression stroke starts to get up towards the top, as it's getting closer to the top, the piston itself actually has a contour in it. 
 
 And so the direct injection is injecting during that compression stroke, late during the compression stroke. And it's hitting that kind of contour of the piston. And what that's doing is localizing a very rich air fuel ratio next to the spark plug, which is in the top, dead center. 
 
@@ -133,7 +131,7 @@ And with a port injection engine, you're spraying that fuel, and that fuel spray
 
 And so a port injection system is a great system in order to keep those deposits very clean. Now, I saw a study published SAE in 2011, and it was saying that they were seeing more than ten times greater amounts of these different chemical elements here that we have. 
 
-So we're going to test my chemistry really quick. Calcium mo, I believe is the technical term. Phosphorus, sulfur I don't know what Mo is. I didn't do so hot in chemistry. Regardless, they saw ten times increased of these different elements as deposits on the intake valves. 
+So we're going to test my chemistry really quick. Calcium, Mo, Zn, I believe is the technical term. Phosphorus, Sulfur I don't know what Mo is. I didn't do so hot in chemistry. Regardless, they saw ten times increased of these different elements as deposits on the intake valves. 
 
 And so there is a significant difference. There are studies showing that direct injection engines tend to have more deposits than port injection engines. And there are certainly engines out there which are direct injection which suffer from carbon deposit problems on the intake valves. 
 
