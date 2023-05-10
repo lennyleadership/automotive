@@ -14,7 +14,7 @@ toc: true
 
 
 <!--more-->
-bookHidden: true
+
 
 <figure>
   <img width = "540" src = "/docs/images/gettyimages-102635215-1550075495.jpg"/>
@@ -29,4 +29,6 @@ Direct injection, on the other hand, cools the air inside the cylinder, greatly 
 
 That's just the tip of the iceberg for why manufacturers love to double-down on injection methods. Check out Fenske's full video right here.
 
-<iframe width="540" src="https://www.youtube.com/embed/66C4YIiwRbM" title="Why New Cars Are Using Both Direct &amp; Port Fuel Injection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="540", height = "360", src="https://www.youtube.com/embed/66C4YIiwRbM" title="Why New Cars Are Using Both Direct &amp; Port Fuel Injection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Reference: https://www.roadandtrack.com/car-culture/car-design/a26324616/port-and-direct-injection-explanation/
