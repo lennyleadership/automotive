@@ -1,5 +1,5 @@
 baseURL: https://example.com/
-title: Hugo Book
+title: Automotive Notes
 theme: hugo-book
 disablePathToLower: yes
 enableGitInfo: no
@@ -14,22 +14,22 @@ languages:
     contentDir: content.en
     languageName: English
     weight: 1
-  ru:
-    contentDir: content.ru
-    languageName: Russian
-    weight: 2
-  zh:
-    contentDir: content.zh
-    languageName: Chinese
-    weight: 3
+  #ru:
+  #  contentDir: content.ru
+  #  languageName: Russian
+  #  weight: 2
+  #zh:
+  #  contentDir: content.zh
+  #  languageName: Chinese
+  #  weight: 3
 menu:
-  after:
-    - name: Github
-      url: https://github.com/alex-shpak/hugo-book
-      weight: 10
-    - name: Hugo Themes
-      url: https://themes.gohugo.io/hugo-book/
-      weight: 20
+  #after:
+  #  - name: Github
+  #    url: https://github.com/alex-shpak/hugo-book
+  #    weight: 10
+  #  - name: Hugo Themes
+  #    url: https://themes.gohugo.io/hugo-book/
+  #    weight: 20
 params:
   BookComments: yes
   BookDateFormat: January 2, 2006
