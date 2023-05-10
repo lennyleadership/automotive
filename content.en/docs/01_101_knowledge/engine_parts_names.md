@@ -44,12 +44,12 @@ toc: true
     </p></td>
   </tr>
   <tr>
-    <p>
+    <td><p>
     <figure>
   <img width = "540" src = "/docs/images/camshaft module.jpg"/>
   <figcaption class = "bottom">Timing gears, camshaft and valve mechanism</figcaption>
 </figure>
-    </p>
+    </p></td>
   </tr>
   <tr>
     <td><p>sentence left
