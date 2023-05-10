@@ -1,7 +1,7 @@
 ---
-weight:
-title:
-authors: Lenny Lin
+weight: 
+title: GDI and Carbon Buildup
+authors: Lenny
 categories: null
 tags: 
 description: 
@@ -14,6 +14,5 @@ toc: true
 
 
 <!--more-->
-bookHidden: true
-
+---
 

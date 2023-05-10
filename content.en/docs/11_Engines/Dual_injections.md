@@ -1,6 +1,6 @@
 ---
 weight:
-title:
+title: Dual Injections
 authors: Lenny Lin
 categories: null
 tags: 
