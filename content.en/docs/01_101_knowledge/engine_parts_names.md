@@ -68,7 +68,8 @@ toc: true
     <figure>
   <img width = "540" src = "/docs/images/4-stroke-animation.gif"/>
   <figcaption class = "bottom">Four-stroke gasoline direct-injected engine animation</figcaption>
-</figure>
+</figure>  
+Reference: https://www.testingautos.com/car_care/four-stroke-engine.html
     </p></td>
   </tr>
 </tbody>
