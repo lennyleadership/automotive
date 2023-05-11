@@ -18,6 +18,11 @@ toc: true
 
 # Internal combustion engine
 
+<figure>
+  <img width = "540" src = "/docs/images/4-stroke cycle.jpg"/>
+  <figcaption class = "bottom"></figcaption>
+</figure>
+
 The four stroke principle upon which most modern automobile engines work was discovered by a French engineer, **Alphonse Beau de Rochas** in 1862. The four stroke cycle is often called the Otto cycle after the german **Nikolaus August Otto** who designed un engine on that principle in 1876.
 
 A stroke is the movement of the piston from TDC (top dead center) to BDC (bottom dead center), or from BDC to TDC. There are four strokes in one four stroke cycle of the engine. They are: the intake stroke, compression stroke, power stroke and exhaust stroke.
