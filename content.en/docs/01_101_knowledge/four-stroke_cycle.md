@@ -1,5 +1,5 @@
----2
-weight:
+---
+weight: 2
 title: Four-stroke Cycle
 authors: Lenny Lin
 categories: null
