@@ -72,5 +72,15 @@ toc: true
 Reference: https://www.testingautos.com/car_care/four-stroke-engine.html
     </p></td>
   </tr>
+  <tr>
+    <td><p>
+  <figure>
+  <img width = "540" src = "/docs/images/4-stroke cycle.jpg"/>
+  <figcaption class = "bottom">Four-stroke cycle</figcaption>
+</figure>
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
 </tbody>
 </table>
