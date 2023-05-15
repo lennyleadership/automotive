@@ -1,6 +1,6 @@
 ---
 weight:
-title:
+title: 
 authors: Lenny Lin
 categories: null
 tags: 
@@ -14,6 +14,5 @@ toc: true
 
 
 <!--more-->
-bookHidden: true
 
 
