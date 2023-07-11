@@ -26,14 +26,21 @@ Near ZIP: 58067
 </figure>
 
 <figure>
-  <img width = "540" src = "/docs/images/Screenshot 2023-07-10 225945.png"/>
-  <figcaption class = "bottom">2023 Lexus ES 350 F Sport Handling</figcaption>
+  <img width = "540" src = "/docs/images/Screenshot 2023-07-11 125423.png"/>
+  <figcaption class = "bottom">2023 Mazda CX-50 S Preferred 4dr SUV AWD (2.5L 4cyl 6A)</figcaption>
 </figure>
 
 <figure>
   <img width = "540" src = "/docs/images/Screenshot 2023-07-11 124050.png"/>
   <figcaption class = "bottom">2023 Kia Carnival LX+</figcaption>
 </figure>
+
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2023-07-10 225945.png"/>
+  <figcaption class = "bottom">2023 Lexus ES 350 F Sport Handling</figcaption>
+</figure>
+
+Data for 2023 Jetta Sedan S 4dr (1.5L 4cyl Turbo 8A)  is not available.
 
 <!--more-->
 ---
@@ -71,19 +78,19 @@ True cost to own: US$59,569
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2></h2>
+      <h2>2023 CX-50 SUV S Preferred 4dr SUV AWD (2.5L 4cyl 6A)</h2>
       <p>True cost to own: US$
       <br>Total cash price: US$
-      <br><br><img src = "/docs/images/"/>
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 125529.png"/>
       </p>
     </li>
     <li>
       <input type="checkbox" checked>
       <i></i>
       <h2></h2>
-      <p>True cost to own: US$
-      <br>Total cash price: US$
-      <br><br><img src = "/docs/images/"/>
+      <p>True cost to own: US$41,611
+      <br>Total cash price: US$33,341
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 125529.png"/>
       </p>
     </li>
   </ul>
@@ -179,7 +186,7 @@ section.carlist {
 #carlist ul li i {
   position: absolute;
   transform: translate(-6px, 0);
-  margin-top: 18px; /*28 location of the arrow*/
+  margin-top: 28px; /*28 location of the arrow*/
   right: 15px;
 }
 #carlist ul li i:before, ul li i:after {
