@@ -123,7 +123,7 @@ section.carlist {
 #carlist h2 {
   color: #cc071e;
   font-size: 17px; /*20*/
-  line-height: 34px;/*34*/
+  line-height: 5px;/*34*/
   text-align: left;
   padding: 15px 15px 0; /*15px 15px 0*/
   text-transform: none;
