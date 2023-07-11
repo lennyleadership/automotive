@@ -75,7 +75,7 @@ Total cash price: $54,305
       <h2>Mazda CX-5 2.5 AWD</h2>
       <p>True cost to own: $39,722</p>
       <p>Total cash price: $29,833 </p>
-<img width = "540" src = "/docs/images/Screenshot 2023-07-10 224158.png"/>
+      <p><img width = "540" src = "/docs/images/Screenshot 2023-07-10 224158.png"/></p>
     </li>
     <li>
       <input type="checkbox" checked>
