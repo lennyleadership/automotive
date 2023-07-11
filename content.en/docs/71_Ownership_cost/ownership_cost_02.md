@@ -3,7 +3,7 @@ weight: 02
 title: Edmunds.com | Ownership Cost 
 authors: Lenny
 categories: null
-tags: 
+tags: [Collapsible text demo]
 description: 
 draft: false
 date: "2023-07-10"
