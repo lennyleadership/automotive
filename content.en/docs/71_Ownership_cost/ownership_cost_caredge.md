@@ -12,7 +12,7 @@ series:
 toc: true
 ---
 
-Reference: <a href = "" target="_blank" rel="noopener noreferrer">CarEdge | </a>
+Reference: <a href = "https://caredge.com/costs" target="_blank" rel="noopener noreferrer">CarEdge | Cost of Owning a Car Research</a>
 
 Data for Kia Carnival is not available.
 
@@ -24,9 +24,20 @@ Data for Kia Carnival is not available.
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2></h2>
-      <p>
-      <br><br><img src = "/docs/images/"/>
+      <h2>Mazda CX-5</h2>
+      <p>The average cost of owning a Mazda CX-5 for 5 years is $28,278. 
+      <br><b>Depreciation</b>
+      <br>A Mazda CX-5 will depreciate in value by &dollar;8,468 after 5 years.  When new, a typically-equipped Mazda CX-5 sells for &dollar;33,618 on average. After 5 years of depreciation, the average residual value will be &dollar;25,150. 
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 141019.png"/>
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 141054.png"/>
+      <br>If you purchase a used Mazda CX-5 that is 2 years old, then you could save &dollar;3,073 compared to buying new, and still have a relatively new model with plenty of useful life remaining. If you plan to keep this vehicle for 3 years then your total cost of depreciation would be &dollar;5,395. 
+      <br><b>Maintenance</b>
+      <br>Maintenance and repair costs for a Mazda CX-5 will amount to $1,948 after 5 years. 
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 141239.png"/>
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 141343.png"/>
+      <br><b>Fuel Econmony</b>
+      <br>A Mazda CX-5 gets an average of 26 MPG, which will cost a total of &dollar;6,895 for fuel after 5 years, or about &dollar;1,379 annually. 
+      <br>Reference: <a href = "https://caredge.com/mazda/cx-5" target="_blank" rel="noopener noreferrer">CarEdge | Mazda CX-5</a>
       </p>
     </li>
     <li>
@@ -41,15 +52,18 @@ Data for Kia Carnival is not available.
       <input type="checkbox" checked>
       <i></i>
       <h2>Volkswagen Jetta</h2>
-      <p>The average cost of owning a Volkswagen Jetta for 5 years is &dollar;24,298.
-      <br>A Volkswagen Jetta gets an average of 31 MPG, which will cost a total of &dollar;5,830 for fuel after 5 years, or about &dollar;1,166 annually. These estimates are based on recently collected national average fuel prices, assuming 12,000 miles driven per year - 55% city and 45% highway.
+      <p>The average cost of owning a Volkswagen Jetta for 5 years is &dollar;24,298. 
+      <br><b>Depreciation</b>
+<br>A Volkswagen Jetta will depreciate 17% after 5 years and have a 5 year resale value of &dollar;22,274. The chart below shows the expected depreciation for the next 10 years. These results are for vehicles in good condition, averaging 12,000 miles per year. It also assumes a selling price of &dollar;26,752 when new. Enter your purchase price, expected ownership period and estimated miles driven annually. Our depreciation calculator will predict an expected resale value for the Volkswagen Jetta. If you purchase a used Volkswagen Jetta that is 2 years old, then you could save &dollar;3,809 compared to buying new, and still have a relatively new model with plenty of useful life remaining. If you plan to keep this vehicle for 3 years then your total cost of depreciation would be &dollar;669. 
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 133810.png"/>
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 133828.png"/>
+      <br><b>Maintenance</b>
       <br>A Volkswagen Jetta will cost about &dollar;5,622 for maintenance and repairs during its first 10 years of service. This beats the industry average for popular sedan models by &dollar;1,474. There is also a 16.86% chance that a Jetta will require a major repair during that time. This is 4.64% better than similar vehicles in this segment. The chart below illustrates how these costs and repair probabilities will increase over time.
       <br><br><img src = "/docs/images/Screenshot 2023-07-11 132926.png"/>
       <br><br><img src = "/docs/images/Screenshot 2023-07-11 133145.png"/>
       <br><br><img src = "/docs/images/Screenshot 2023-07-11 133211.png"/>
-      <br>A Volkswagen Jetta will depreciate 17% after 5 years and have a 5 year resale value of &dollar;22,274. The chart below shows the expected depreciation for the next 10 years. These results are for vehicles in good condition, averaging 12,000 miles per year. It also assumes a selling price of &dollar;26,752 when new. Enter your purchase price, expected ownership period and estimated miles driven annually. Our depreciation calculator will predict an expected resale value for the Volkswagen Jetta. If you purchase a used Volkswagen Jetta that is 2 years old, then you could save &dollar;3,809 compared to buying new, and still have a relatively new model with plenty of useful life remaining. If you plan to keep this vehicle for 3 years then your total cost of depreciation would be &dollar;669. 
-      <br><br><img src = "/docs/images/Screenshot 2023-07-11 133810.png"/>
-      <br><br><img src = "/docs/images/Screenshot 2023-07-11 133828.png"/>
+      <br><b>Fuel Econmony</b>
+      <br>A Volkswagen Jetta gets an average of 31 MPG, which will cost a total of &dollar;5,830 for fuel after 5 years, or about &dollar;1,166 annually. These estimates are based on recently collected national average fuel prices, assuming 12,000 miles driven per year - 55% city and 45% highway.
       <br><a href = "https://caredge.com/volkswagen/jetta" target="_blank" rel="noopener noreferrer">CarEdge | Jetta</a>
       </p>
     </li>
@@ -57,8 +71,14 @@ Data for Kia Carnival is not available.
       <input type="checkbox" checked>
       <i></i>
       <h2></h2>
-      <p>
+      <p>The average cost of owning a Mazda CX-5 for 5 years is $28,278. 
+      <br><b>Depreciation</b>
       <br><br><img src = "/docs/images/"/>
+      <br><br><img src = "/docs/images/"/>
+      <br><b>Maintenance</b>
+      <br><br><img src = "/docs/images/"/>
+      <br><br><img src = "/docs/images/"/>
+      <br><b>Fuel Econmony</b>
       </p>
     </li>
     <li>
@@ -83,8 +103,14 @@ Data for Kia Carnival is not available.
       <input type="checkbox" checked>
       <i></i>
       <h2></h2>
-      <p>
+      <p>The average cost of owning a Mazda CX-5 for 5 years is $28,278. 
+      <br><b>Depreciation</b>
       <br><br><img src = "/docs/images/"/>
+      <br><br><img src = "/docs/images/"/>
+      <br><b>Maintenance</b>
+      <br><br><img src = "/docs/images/"/>
+      <br><br><img src = "/docs/images/"/>
+      <br><b>Fuel Econmony</b>
       </p>
     </li>
   </ul>
