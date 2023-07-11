@@ -119,6 +119,7 @@ section.faq {
 #faq ul {
   text-align: left;
 }
+
 .transition, p, ul li i:before, ul li i:after {
   transition: all 0.3s;
 }
@@ -129,20 +130,14 @@ section.faq {
   user-select: none;
 }
 
-#faq h1 {
-  color: #000;
-  margin-bottom: 30px;
-  margin-top: 0;
-}
-
 #faq h2 {
   color: #cc071e;
   font-size: 20px;
-  line-height: 34px;
+  line-height: 34px;/*34*/
   text-align: left;
   padding: 15px 15px 0;
   text-transform: none;
-  font-weight: 300;
+  font-weight: 10;/*300*/
   display: block;
   margin: 0;
   cursor: pointer;
@@ -150,13 +145,13 @@ section.faq {
 }
 
 #faq p {
-  color: #333;
+  color: blue; /*#333*/
   text-align: left;
   font-size: 14px;
   line-height: 1.45;
   position: relative;
   overflow: hidden;
-  max-height: 250px;
+  max-height: 500px; /*250*/
   will-change: max-height;
   contain: layout;
   display: inline-block;
