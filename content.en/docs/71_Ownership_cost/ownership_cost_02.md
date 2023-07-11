@@ -63,7 +63,6 @@ True cost to own: US$59,569
       <input type="checkbox" checked>
       <i></i>
       <h2>2023 Kia Carnival LX+</h2>
-      <p>
       <p>True cost to own: US$49,951
       <br>Total cash price: US$38,994
       <br><br><img src = "/docs/images/Screenshot 2023-07-11 124153.png"/>
