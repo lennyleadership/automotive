@@ -23,7 +23,7 @@ Annual mileage: 20,000 km
 City vs highway mileage: 30:70  
 Current fuel price (per litre): $1.57
 
-<table>
+<table style="width: 100%"/>
 <colgroup><col style="width: 40%"/>
 <col style="width: 15%"/>
 <col style="width: 15%"/>

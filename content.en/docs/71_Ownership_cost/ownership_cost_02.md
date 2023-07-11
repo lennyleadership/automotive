@@ -33,7 +33,7 @@ Near ZIP: 58067
 <!--more-->
 ---
 
-<div id="faq">
+<div id="carlist">
   <ul>
     <li>
       <input type="checkbox" checked>
@@ -66,19 +66,19 @@ True cost to own: $59,569
 
 <style>
 
-#faq {
+#carlist {
   max-width: 700px;
   margin: auto;
   padding: 0 15px;
   text-align: center;
 }
 
-section.faq {
+section.carlist {
   padding-top: 2em;
   padding-bottom: 3em;/*3*/
 }
 
-#faq ul {
+#carlist ul {
   text-align: left;
 }
 
@@ -86,13 +86,13 @@ section.faq {
   transition: all 0.3s;
 }
 
-#faq .no-select, #faq h2 {
+#carlist .no-select, #carlist h2 {
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
   user-select: none;
 }
 
-#faq h2 {
+#carlist h2 {
   color: #cc071e;
   font-size: 17px; /*20*/
   line-height: 34px;/*34*/
@@ -106,7 +106,7 @@ section.faq {
   transition: .2s;
 }
 
-#faq p {
+#carlist p {
   color: #333;
   text-align: left;
   font-size: 14px;
@@ -127,13 +127,13 @@ section.faq {
   z-index: 2;
 }
 
-#faq ul {
+#carlist ul {
   list-style: none;
   perspective: 900;
   padding: 0;
   margin: 0;
 }
-#faq ul li {
+#carlist ul li {
   position: relative;
   overflow: hidden;
   padding: 0;
@@ -144,32 +144,32 @@ section.faq {
   box-shadow: 0 3px 10px -2px rgba(0,0,0,0.1);
   -webkit-tap-highlight-color: transparent;
 }
-#faq ul li + li {
+#carlist ul li + li {
   margin-top: 15px;/*gap between two h2*/
 }
-#faq ul li:last-of-type {
+#carlist ul li:last-of-type {
   padding-bottom: 0;
 }
-#faq ul li i {
+#carlist ul li i {
   position: absolute;
   transform: translate(-6px, 0);
   margin-top: 28px; /*location of the arrow*/
   right: 15px;
 }
-#faq ul li i:before, ul li i:after {
+#carlist ul li i:before, ul li i:after {
   content: "";
   position: absolute;
   background-color: #cc071e;
   width: 3px;
   height: 9px;
 }
-#faq ul li i:before {
+#carlist ul li i:before {
   transform: translate(-2px, 0) rotate(45deg);
 }
-#faq ul li i:after {
+#carlist ul li i:after {
   transform: translate(2px, 0) rotate(-45deg);
 }
-#faq ul li input[type=checkbox] {
+#carlist ul li input[type=checkbox] {
   position: absolute;
   cursor: pointer;
   width: 100%;
@@ -178,20 +178,20 @@ section.faq {
   opacity: 0;
   touch-action: manipulation;
 }
-#faq ul li input[type=checkbox]:checked ~ h2 {
+#carlist ul li input[type=checkbox]:checked ~ h2 {
   color: #000;
 }
-#faq ul li input[type=checkbox]:checked ~ p {
+#carlist ul li input[type=checkbox]:checked ~ p {
   /*margin-top: 0;*/
   max-height: 0;
   transition: .3s;
   opacity: 0;
   /*transform: translate(0, 50%);*/
 }
-#faq ul li input[type=checkbox]:checked ~ i:before {
+#carlist ul li input[type=checkbox]:checked ~ i:before {
   transform: translate(2px, 0) rotate(45deg);
 }
-#faq ul li input[type=checkbox]:checked ~ i:after {
+#carlist ul li input[type=checkbox]:checked ~ i:after {
   transform: translate(-2px, 0) rotate(-45deg);
 }
 
