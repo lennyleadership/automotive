@@ -24,12 +24,15 @@ City vs highway mileage: 30:70
 Current fuel price (per litre): $1.57
 
 <table>
-<colgroup><col style="width: 50%" /><col style="width: 50%" />
+<colgroup><col style="width: 50%"/>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
 </colgroup>
 <thead>
   <tr VALIGN=TOP style="text-align:left"  class="header">
     <th><p>Factors</p></th>
     <th><p>2023 Mazda CX-50 GT AWD</p></th>
+    <th><p>2023 Lexus ES 350 F Sport Design</p></th>
   </tr>
 <tbody VALIGN=TOP>
   <tr>
@@ -41,6 +44,11 @@ Estimated total annual driving costs
   <td style = "border-style: none">
   <p>
 $10,203.84/year
+  </p>  
+  </td>
+  <td style = "border-style: none">
+  <p>
+$13,002.05/year
   </p>  
   </td>
   </tr>
@@ -56,6 +64,11 @@ $0.51
   </p>  
   </td>
   </tr>
+  <td style = "border-style: none">
+  <p>
+$0.65
+  </p>  
+  </td>
   <tr>
   <td style = "border-style: none">
   <p>
@@ -68,6 +81,11 @@ Average fuel economy (L/100km)
   </p>  
   </td>
   </tr>
+  <td style = "border-style: none">
+  <p>
+8.52
+  </p>  
+  </td>
   <tr>
   <td style = "border-style: none">
   <p>
@@ -77,6 +95,11 @@ Fuel cost per year (Gas)
   <td style = "border-style: none">
   <p>
 $2,655
+  </p>  
+  </td>
+  <td style = "border-style: none">
+  <p>
+$2,680.17
   </p>  
   </td>
   </tr>
@@ -91,6 +114,11 @@ Depreciation cost
 $3,983.20
   </p>  
   </td>
+  <td style = "border-style: none">
+  <p>
+$5,707.00
+  </p>  
+  </td>
   </tr>
   <tr>
   <td style = "border-style: none">
@@ -103,12 +131,22 @@ Maintenance cost
 $1,103.64
   </p>  
   </td>
+  <td style = "border-style: none">
+  <p>
+$1,867.03
+  </p>  
+  </td>
   </tr>
   <tr>
   <td style = "border-style: none">
   <p>
 License and registration fees
   </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+$130.40
+  </p>  
   </td>
   <td style = "border-style: none">
   <p>
@@ -127,6 +165,11 @@ Insurance costs
 1239.9
   </p>  
   </td>
+  <td style = "border-style: none">
+  <p>
+$1,300.40
+  </p>  
+  </td>
   </tr>
   <tr>
   <td style = "border-style: none">
@@ -137,6 +180,11 @@ Monthly car payment
   <td style = "border-style: none">
   <p>
 $713.8
+  </p>  
+  </td>
+  <td style = "border-style: none">
+  <p>
+$861.14
   </p>  
   </td>
   </tr>
