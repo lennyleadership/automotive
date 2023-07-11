@@ -22,12 +22,17 @@ Near ZIP: 58067
 
 <figure>
   <img width = "540" src = "/docs/images/Screenshot 2023-07-10 224520.png"/>
-  <figcaption class = "bottom">Mazda CX-5 2.5L AWD</figcaption>
+  <figcaption class = "bottom">2023 Mazda CX-5 2.5L AWD</figcaption>
 </figure>
 
 <figure>
   <img width = "540" src = "/docs/images/Screenshot 2023-07-10 225945.png"/>
-  <figcaption class = "bottom">Lexus ES 350 F Sport Handling</figcaption>
+  <figcaption class = "bottom">2023 Lexus ES 350 F Sport Handling</figcaption>
+</figure>
+
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2023-07-11 124050.png"/>
+  <figcaption class = "bottom">2023 Kia Carnival LX+</figcaption>
 </figure>
 
 <!--more-->
@@ -39,8 +44,8 @@ Near ZIP: 58067
       <input type="checkbox" checked>
       <i></i>
       <h2>Mazda CX-5 2.5 AWD</h2>
-      <p>True cost to own: $39,722
-      <br>Total cash price: $29,833
+      <p>True cost to own: US$39,722
+      <br>Total cash price: US$29,833
       <br><br><img src = "/docs/images/Screenshot 2023-07-10 224158.png"/>
       </p>
     </li>
@@ -49,16 +54,40 @@ Near ZIP: 58067
       <i></i>
       <h2>Lexus ES 350 F Sport Handling</h2>
       <p>
-True cost to own: $59,569  
-<br>Total cash price: $54,305
+True cost to own: US$59,569  
+<br>Total cash price: US$54,305
 <br><br><img src = "/docs/images/Screenshot 2023-07-10 230215.png"/>
       </p>
     </li>
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Question #3..?</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam quas placeat assumenda mollitia magni consequatur dolorum, quod nihil distinctio aperiam officia alias! Voluptate dolore ex officiis sit, magnam non a, eligendi pariatur aut, earum dolores tenetur ipsam id illo deleniti. Laudantium deserunt eaque ipsam voluptatum consequuntur voluptatibus sed minima ad accusamus debitis eos similique laboriosam, molestiae? Consequatur neque tempore quis. Eligendi, in ut aspernatur esse nesciunt libero.</p>
+      <h2>2023 Kia Carnival LX+</h2>
+      <p>
+      <p>True cost to own: US$49,951
+      <br>Total cash price: US$38,994
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 124153.png"/>
+      </p>
+    </li>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2></h2>
+      <p>
+      <p>True cost to own: US$
+      <br>Total cash price: US$
+      <br><br><img src = "/docs/images/"/>
+      </p>
+    </li>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2></h2>
+      <p>
+      <p>True cost to own: US$
+      <br>Total cash price: US$
+      <br><br><img src = "/docs/images/"/>
+      </p>
     </li>
   </ul>
 </div>
