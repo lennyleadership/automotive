@@ -19,8 +19,8 @@ Data were collected from CAA.ca
 Basic information:
 
 Province: MB  
-Annual mileage: 20,000 km
-City vs highway mileage: 30:70
+Annual mileage: 20,000 km  
+City vs highway mileage: 30:70  
 Current fuel price (per litre): $1.57
 
 <table>
@@ -63,12 +63,12 @@ Total cost per km
 $0.51
   </p>  
   </td>
-  </tr>
   <td style = "border-style: none">
   <p>
 $0.65
   </p>  
-  </td>
+  </td>  
+  </tr>
   <tr>
   <td style = "border-style: none">
   <p>
@@ -80,12 +80,12 @@ Average fuel economy (L/100km)
 8.44
   </p>  
   </td>
-  </tr>
   <td style = "border-style: none">
   <p>
 8.52
   </p>  
-  </td>
+  </td>  
+  </tr>
   <tr>
   <td style = "border-style: none">
   <p>
