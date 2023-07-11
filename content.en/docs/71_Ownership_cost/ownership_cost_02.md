@@ -67,7 +67,7 @@ True cost to own: $59,569
 <style>
 
 #carlist {
-  max-width: 700px;
+  max-width: auto; /*700px*/
   margin: auto;
   padding: 0 15px;
   text-align: center;
