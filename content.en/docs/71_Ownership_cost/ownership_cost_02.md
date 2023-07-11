@@ -66,7 +66,9 @@ Total cash price: $54,305
 </div>
 
 
-<button type="button" class="collapse_text">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<div class="truncated">
+<p>... text to be visible on page load ...</p>
+<p>...</p>
+<p>...</p>
+<p>...</p>
 </div>

@@ -634,31 +634,16 @@ u.red{
 
 // collapsible text ////////////////////////////////////////////////////////////////////////////////
 
-/* Style the button that is used to open and close the collapsible content */
-.collapse_text {
-  background-color: #777;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
-
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .collapse_text:hover {
-  background-color: #555;
-}
-
-/* Style the collapsible content. Note: hidden by default */
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
+  .truncated > * {
+    display: none;
+  }
+  .truncated > p:first-child {
+    display: block;
+    cursor: pointer;
+  }
+  .truncated > p:first-child::after {
+    content: "\00a0 More…";
+  }
 
 
 
