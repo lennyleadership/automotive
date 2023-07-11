@@ -12,13 +12,13 @@ series:
 toc: true
 ---
 
-Reference: Edmunds.com
+Reference: <a href = "https://www.edmunds.com/tco.html" target="_blank" rel="noopener noreferrer">Edmunds.com | Cost of Car Ownership</a>
 
-Basic information:
+Basic information:  
 
-Near ZIP: 58067
+Near ZIP: 58067  
 
-*Based on a 5-year estimate with 15,000 miles driven per year.
+*Based on a 5-year estimate with 15,000 miles driven per year.  
 
 <figure>
   <img width = "540" src = "/docs/images/Screenshot 2023-07-10 224520.png"/>
@@ -65,15 +65,15 @@ Data for 2023 Jetta Sedan S 4dr (1.5L 4cyl Turbo 8A)  is not available.
       <input type="checkbox" checked>
       <i></i>
       <h2>2023 CX-50 SUV S Preferred 4dr SUV AWD (2.5L 4cyl 6A)</h2>
-      <p>True cost to own: US$
-      <br>Total cash price: US$
+      <p>True cost to own: US$41,611
+      <br>Total cash price: US$33,341
       <br><br><img src = "/docs/images/Screenshot 2023-07-11 125529.png"/>
       </p>
     </li>
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>2023 Carnival Minivan LX 4dr Minivan (3.5L 6cyl 8A)</h2>
+      <h2>2023 Kia Carnival LX 4dr Minivan (3.5L 6cyl 8A)</h2>
       <p>True cost to own: US$49,126
       <br>Total cash price: US$38,085
       <br><br><img src = "/docs/images/Screenshot 2023-07-11 130329.png"/>
