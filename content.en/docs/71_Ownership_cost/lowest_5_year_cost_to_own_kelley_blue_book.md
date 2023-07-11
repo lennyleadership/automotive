@@ -1,6 +1,6 @@
 ---
 weight: 04
-title: Kelley Blue Book | Lowest 5-Year Cost to Own: Top Cars, Trucks and SUVs of 2023
+title: "Kelley Blue Book | Lowest 5-Year Cost to Own: Top Cars, Trucks and SUVs of 2023"
 authors: Lenny
 categories: null
 tags: 
