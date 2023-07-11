@@ -43,14 +43,6 @@ Data for Kia Carnival is not available.
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2></h2>
-      <p>
-      <br><br><img src = "/docs/images/"/>
-      </p>
-    </li>
-    <li>
-      <input type="checkbox" checked>
-      <i></i>
       <h2>Volkswagen Jetta</h2>
       <p>The average cost of owning a Volkswagen Jetta for 5 years is &dollar;24,298. 
       <br><b>Depreciation</b>
@@ -65,20 +57,6 @@ Data for Kia Carnival is not available.
       <br><b>Fuel Econmony</b>
       <br>A Volkswagen Jetta gets an average of 31 MPG, which will cost a total of &dollar;5,830 for fuel after 5 years, or about &dollar;1,166 annually. These estimates are based on recently collected national average fuel prices, assuming 12,000 miles driven per year - 55% city and 45% highway.
       <br><a href = "https://caredge.com/volkswagen/jetta" target="_blank" rel="noopener noreferrer">CarEdge | Jetta</a>
-      </p>
-    </li>
-    <li>
-      <input type="checkbox" checked>
-      <i></i>
-      <h2></h2>
-      <p>The average cost of owning a Mazda CX-5 for 5 years is $28,278. 
-      <br><b>Depreciation</b>
-      <br><br><img src = "/docs/images/"/>
-      <br><br><img src = "/docs/images/"/>
-      <br><b>Maintenance</b>
-      <br><br><img src = "/docs/images/"/>
-      <br><br><img src = "/docs/images/"/>
-      <br><b>Fuel Econmony</b>
       </p>
     </li>
     <li>
@@ -103,7 +81,7 @@ Data for Kia Carnival is not available.
       <input type="checkbox" checked>
       <i></i>
       <h2></h2>
-      <p>The average cost of owning a Mazda CX-5 for 5 years is $28,278. 
+      <p> 
       <br><b>Depreciation</b>
       <br><br><img src = "/docs/images/"/>
       <br><br><img src = "/docs/images/"/>
