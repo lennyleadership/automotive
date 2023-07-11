@@ -142,7 +142,9 @@ Data for Kia Carnival is not available.
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Mazda CX-5</h2>
+      <h2>Mazda CX-5
+      <br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae debitis iusto voluptatum doloribus rem, qui nesciunt labore tempore fugit iste deserunt incidunt error provident repudiandae laudantium quo ipsa unde perspiciatis, nihil autem distinctio! Deserunt, aspernatur.
+      </h2>
       <p>The average cost of owning a Mazda CX-5 for 5 years is $28,278. 
       <br><b>Depreciation</b>
       <br>A Mazda CX-5 will depreciate in value by &dollar;8,468 after 5 years.  When new, a typically-equipped Mazda CX-5 sells for &dollar;33,618 on average. After 5 years of depreciation, the average residual value will be &dollar;25,150. 
