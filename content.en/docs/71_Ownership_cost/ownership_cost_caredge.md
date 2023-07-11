@@ -17,7 +17,7 @@ Reference: <a href = "https://caredge.com/costs" target="_blank" rel="noopener n
 Data for Kia Carnival is not available.
 
 <table >
-<caption style="text-align:left", align = "top"><b></b></caption>
+<caption style="text-align:left", align = "top"><b>5 Year Ownership Cost</b></caption>
 <colgroup><col style="width: 25%" />
 <col style="width: 25%" />
 <col style="width: 25%" />
@@ -75,6 +75,64 @@ Data for Kia Carnival is not available.
 </tbody>
 </table>
 
+<table >
+<caption style="text-align:left", align = "top"><b>Resale Value at 10th year</b></caption>
+<colgroup><col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+  <tr VALIGN=TOP style="text-align:left"  class="header">
+    <th><p>Model</p></th>
+    <th><p>New Price</p></th>
+    <th><p></p></th>    
+    <th><p>Cost / Price Ratio</p></th>
+  </tr>
+</thead>
+<tbody VALIGN=TOP>
+  <tr>
+    <td><p>Mazda CX-5
+    </p></td>
+    <td><p>$33,618
+    </p></td>
+    <td><p>$11,541
+    </p></td>
+    <td><p>34.3%
+    </p></td>  
+  </tr>
+  <tr>
+    <td><p>Volkswagen Jetta
+    </p></td>
+    <td><p>$26,752
+    </p></td>
+    <td><p>$13,743
+    </p></td>
+    <td><p>51.4%
+    </p></td>
+  </tr>
+  <tr>
+    <td><p>Lexus ES 350
+    </p></td>
+    <td><p>$46,912
+    </p></td>
+    <td><p>$20,862
+    </p></td>
+    <td><p>44.5%
+    </p></td>
+  </tr>
+  <tr>
+    <td><p>
+    </p></td>
+    <td><p>
+    </p></td>
+    <td><p>
+    </p></td>
+    <td><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
 
 <!--more-->
 ---
