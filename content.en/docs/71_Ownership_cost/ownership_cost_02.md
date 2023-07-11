@@ -33,41 +33,7 @@ Near ZIP: 58067
 <!--more-->
 ---
 
-<!-- Tab links -->
-<div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'car01')">Mazda CX-5 2.5 AWD</button>
-  <button class="tablinks" onclick="tablabel(event, 'car02')">Lexus ES 350 F Sport Handling</button>
-  
-</div>
-
-<!-- Tab content -->
-<div id="car01" class="tabcontent" style="display:block">
-
-True cost to own: $39,722  
-
-Total cash price: $29,833 
-
-<figure>
-  <img width = "540" src = "/docs/images/Screenshot 2023-07-10 224158.png"/>
-  <figcaption class = "bottom"></figcaption>
-</figure>
-</div>
-
-<div id="car02" class="tabcontent">
-
-True cost to own: $59,569  
-
-Total cash price: $54,305
-
-<figure>
-  <img width = "540" src = "/docs/images/Screenshot 2023-07-10 230215.png"/>
-  <figcaption class = "bottom"></figcaption>
-</figure>
-</div>
-
-
 <div id="faq">
-
   <ul>
     <li>
       <input type="checkbox" checked>
@@ -141,7 +107,7 @@ section.faq {
 }
 
 #faq p {
-  color: blue; /*#333*/
+  color: #333;
   text-align: left;
   font-size: 14px;
   line-height: 1.45;
