@@ -43,16 +43,6 @@ Data for Kia Carnival is not available.
     </p></td>  
   </tr>
   <tr>
-    <td><p>Lexus ES 350
-    </p></td>
-    <td><p>$46,912
-    </p></td>
-    <td><p>$36,293
-    </p></td>
-    <td><p>77.4%
-    </p></td>
-  </tr>
-  <tr>
     <td><p>Volkswagen Jetta
     </p></td>
     <td><p>$26,752
@@ -60,6 +50,16 @@ Data for Kia Carnival is not available.
     <td><p>$24,298
     </p></td>
     <td><p>90.8%
+    </p></td>
+  </tr>
+  <tr>
+    <td><p>Lexus ES 350
+    </p></td>
+    <td><p>$46,912
+    </p></td>
+    <td><p>$36,293
+    </p></td>
+    <td><p>77.4%
     </p></td>
   </tr>
   <tr>
