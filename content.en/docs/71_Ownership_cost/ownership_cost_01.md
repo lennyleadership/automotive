@@ -32,6 +32,7 @@ Current fuel price (per litre): $1.57
 <col style="width: 15%"/>
 <col style="width: 15%"/>
 <col style="width: 15%"/>
+<col style="width: 15%"/>
 </colgroup>
 <thead>
   <tr VALIGN=TOP style="text-align:left"  class="header">
@@ -43,6 +44,7 @@ Current fuel price (per litre): $1.57
     <th><p>2023 Kia Carnival LX</p></th>
     <th><p>2023 Kia Carnival LX+</p></th> 
     <th><p>2023 Kia Carnival EX+</p></th>    
+    <th><p>2023 Volkswagen Jetta Comfortline</p></th>
   </tr>
 <tbody VALIGN=TOP>
   <tr>
@@ -86,6 +88,11 @@ $11,669.75/year
 $12,934.78
   </p>  
   </td>  
+  <td style = "border-style: none">
+  <p>
+$8,928.35
+  </p>  
+  </td>
   </tr>
   <tr>
   <td style = "border-style: none">
@@ -128,6 +135,11 @@ $0.58
 $0.65
   </p>  
   </td>  
+  <td style = "border-style: none">
+  <p>
+$0.45
+  </p>  
+  </td>
   </tr>
   <tr>
   <td style = "border-style: none">
@@ -170,6 +182,11 @@ Average fuel economy (L/100km)
 9.86
   </p>  
   </td>  
+  <td style = "border-style: none">
+  <p>
+6.49
+  </p>  
+  </td>
   </tr>
   <tr>
   <td style = "border-style: none">
@@ -210,6 +227,11 @@ $3,101.70
   <td style = "border-style: none">
   <p>
 $3,101.70
+  </p>  
+  </td>
+  <td style = "border-style: none">
+  <p>
+$2,041.59
   </p>  
   </td>
   </tr>
@@ -254,6 +276,11 @@ $4,781.40
 $5,785.60
   </p>  
   </td>
+  <td style = "border-style: none">
+  <p>
+$3,708.40
+  </p>  
+  </td>
   </tr>
   <tr>
   <td style = "border-style: none">
@@ -296,12 +323,22 @@ $1,403.43
 $1,474.30
   </p>  
   </td>
+  <td style = "border-style: none">
+  <p>
+$1,015.13
+  </p>  
+  </td>
   </tr>
   <tr>
   <td style = "border-style: none">
   <p>
 License and registration fees
   </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+$130.40
+  </p>  
   </td>
   <td style = "border-style: none">
   <p>
@@ -380,6 +417,11 @@ $1,246.94
 $1,258.81
   </p>  
   </td>
+  <td style = "border-style: none">
+  <p>
+$1,315.42
+  </p>  
+  </td>
   </tr>
   <tr>
   <td style = "border-style: none">
@@ -420,6 +462,11 @@ $657.69
   <td style = "border-style: none">
   <p>
 $774.13
+  </p>  
+  </td>
+  <td style = "border-style: none">
+  <p>
+$469.07
   </p>  
   </td>
   </tr>
