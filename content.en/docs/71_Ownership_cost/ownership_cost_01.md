@@ -1,6 +1,6 @@
 ---
 weight: 01
-title: Ownership Cost
+title: CAA.ca | Ownership Cost
 authors: Lenny
 categories: null
 tags: 

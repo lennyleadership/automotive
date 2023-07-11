@@ -1,6 +1,6 @@
 ---
 weight: 02
-title: Ownership Cost 5-year breakdown
+title: Edmunds.com | Ownership Cost 
 authors: Lenny
 categories: null
 tags: 
@@ -11,6 +11,8 @@ lastmod: "2023-07-10"
 series:
 toc: true
 ---
+
+Reference: Edmunds.com
 
 Basic information:
 
