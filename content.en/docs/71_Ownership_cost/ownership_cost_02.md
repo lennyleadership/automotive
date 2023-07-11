@@ -64,3 +64,9 @@ Total cash price: $54,305
   <figcaption class = "bottom"></figcaption>
 </figure>
 </div>
+
+
+<button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div>
