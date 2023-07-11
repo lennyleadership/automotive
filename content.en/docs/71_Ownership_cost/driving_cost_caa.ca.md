@@ -50,47 +50,47 @@ Current fuel price (per litre): $1.57
   <tr>
   <td style = "border-style: none">
   <p>
-Estimated total annual driving costs
+Estimated total annual driving costs(/year)
   </p>
   </td>
   <td style = "border-style: none">
   <p>
-$10,203.84/year
+$10,203.84
   </p>  
   </td>
   <td style = "border-style: none">
   <p>
-$9,890.78/year
+$9,890.78
   </p>  
   </td>
   <td style = "border-style: none">
   <p>
-$10,245.13/year
+$10,245.13
   </p>  
   </td>
   <td style = "border-style: none">
   <p>
-$13,002.05/year
+$13,002.05
   </p>  
   </td>
   <td style = "border-style: none">
   <p>
-$11,350.77/year
+$11,350.77
   </p>  
   </td>
   <td style = "border-style: none">
   <p>
-$11,669.75/year
+$11,669.75
   </p>  
   </td>
   <td style = "border-style: none">
   <p>
-$12,934.78/year
+$12,934.78
   </p>  
   </td>  
   <td style = "border-style: none">
   <p>
-$8,928.35/year
+$8,928.35
   </p>  
   </td>
   </tr>
