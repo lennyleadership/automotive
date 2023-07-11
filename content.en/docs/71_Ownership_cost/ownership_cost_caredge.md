@@ -86,7 +86,7 @@ Data for Kia Carnival is not available.
   <tr VALIGN=TOP style="text-align:left"  class="header">
     <th><p>Model</p></th>
     <th><p>New Price</p></th>
-    <th><p></p></th>    
+    <th><p>Resale Value at 10th Year</p></th>    
     <th><p>Cost / Price Ratio</p></th>
   </tr>
 </thead>
