@@ -637,11 +637,11 @@ u.red{
   .truncated > * {
     display: none;
   }
-  .truncated > p:first-child {
+  .truncated > P:first-child {
     display: block;
     cursor: pointer;
   }
-  .truncated > p:first-child::after {
+  .truncated > P:first-child::after {
     content: "\00a0 More…";
   }
 
