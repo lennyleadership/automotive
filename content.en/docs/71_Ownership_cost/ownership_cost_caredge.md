@@ -16,6 +16,64 @@ Reference: <a href = "https://caredge.com/costs" target="_blank" rel="noopener n
 
 Data for Kia Carnival is not available.
 
+<table >
+<caption style="text-align:left", align = "top"><b></b></caption>
+<colgroup><col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+  <tr VALIGN=TOP style="text-align:left"  class="header">
+    <th><p>Model</p></th>
+    <th><p>New Price</p></th>
+    <th><p>5 Year Ownership Cost</p></th>    
+    <th><p>Cost / Price Ratio</p></th>
+  </tr>
+</thead>
+<tbody VALIGN=TOP>
+  <tr>
+    <td><p>Mazda CX-5
+    </p></td>
+    <td><p>$33,618
+    </p></td>
+    <td><p>$28,278
+    </p></td>
+    <td><p>sentence right.
+    </p></td>  
+  </tr>
+  <tr>
+    <td><p>Lexus ES 350
+    </p></td>
+    <td><p>$46,912
+    </p></td>
+    <td><p>$36,293
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
+  <tr>
+    <td><p>Volkswagen Jetta
+    </p></td>
+    <td><p>$26,752
+    </p></td>
+    <td><p>$24,298
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
+  <tr>
+    <td><p>sentence left
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+    <td><p>sentence left
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
+</tbody>
+</table>
 
 
 <!--more-->
