@@ -67,8 +67,8 @@ Total cash price: $54,305
 
 
 <div class="truncated">
-<p>... text to be visible on page load ...</p>
-<p>...</p>
-<p>...</p>
-<p>...</p>
+<p>... This is the first paragraph of text that will always be visible. A link will be appended to this paragraph with an option to show more content. Actually, anywhere in the paragraph can be clicked ...</p>
+<p>The second and subsequent paragraphs (or lists or other elements) will remain in the HTML, but hidden until requested.</p>
+<p>When the link is clicked, JavaScript simply removes the truncated class from the parent container, which has the effect of removing the More… link and displaying all of the content normally on the page.</p>
+<p>The only gotcha is that the first child of the container must be a P.</p>
 </div>
