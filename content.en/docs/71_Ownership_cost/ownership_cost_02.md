@@ -132,12 +132,12 @@ section.faq {
 
 #faq h2 {
   color: #cc071e;
-  font-size: 20px;
+  font-size: 17px; /*20*/
   line-height: 34px;/*34*/
   text-align: left;
   padding: 15px 15px 0;
   text-transform: none;
-  font-weight: 10;/*300*/
+  font-weight: 300;
   display: block;
   margin: 0;
   cursor: pointer;
@@ -151,7 +151,7 @@ section.faq {
   line-height: 1.45;
   position: relative;
   overflow: hidden;
-  max-height: 500px; /*250*/
+  max-height: 500px; /*the image size is determined by this setting*/
   will-change: max-height;
   contain: layout;
   display: inline-block;
