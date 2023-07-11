@@ -72,14 +72,32 @@ Total cash price: $54,305
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Question #1..?</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae debitis iusto voluptatum doloribus rem, qui nesciunt labore tempore fugit iste deserunt incidunt error provident repudiandae laudantium quo ipsa unde perspiciatis, nihil autem distinctio! Deserunt, aspernatur.</p>
+      <h2>Mazda CX-5 2.5 AWD</h2>
+      <p>
+True cost to own: $39,722  
+
+Total cash price: $29,833 
+
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2023-07-10 224158.png"/>
+  <figcaption class = "bottom"></figcaption>
+</figure>      
+      </p>
     </li>
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Question #2..?</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente quasi, quia provident facere recusandae itaque assumenda fuga veniam dicta earum dolorem architecto facilis nisi pariatur.</p>
+      <h2Lexus ES 350 F Sport Handling</h2>
+      <p>
+True cost to own: $59,569  
+
+Total cash price: $54,305
+
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2023-07-10 230215.png"/>
+  <figcaption class = "bottom"></figcaption>
+</figure>      
+      </p>
     </li>
     <li>
       <input type="checkbox" checked>
