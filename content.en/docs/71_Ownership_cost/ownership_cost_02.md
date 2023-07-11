@@ -41,7 +41,7 @@ Near ZIP: 58067
       <h2>Mazda CX-5 2.5 AWD</h2>
       <p>True cost to own: $39,722
       <br>Total cash price: $29,833
-      <br><img width = "540" src = "/docs/images/Screenshot 2023-07-10 224158.png"/>
+      <br><br><img src = "/docs/images/Screenshot 2023-07-10 224158.png"/>
       </p>
     </li>
     <li>
@@ -51,7 +51,7 @@ Near ZIP: 58067
       <p>
 True cost to own: $59,569  
 <br>Total cash price: $54,305
-<br><img width = "540" src = "/docs/images/Screenshot 2023-07-10 230215.png"/>
+<br><br><img src = "/docs/images/Screenshot 2023-07-10 230215.png"/>
       </p>
     </li>
     <li>
@@ -75,7 +75,7 @@ True cost to own: $59,569
 
 section.faq {
   padding-top: 2em;
-  padding-bottom: 3em;
+  padding-bottom: 3em;/*3*/
 }
 
 #faq ul {
@@ -97,7 +97,7 @@ section.faq {
   font-size: 17px; /*20*/
   line-height: 34px;/*34*/
   text-align: left;
-  padding: 15px 15px 0;
+  padding: 15px 15px 0; /*15px 15px 0*/
   text-transform: none;
   font-weight: 300;
   display: block;
@@ -140,12 +140,12 @@ section.faq {
   margin: 0;
   /*padding-bottom: 4px;*/
   /*padding-top: 18px;*/
-  /*background: #fff;*/
-  /*box-shadow: 0 3px 10px -2px rgba(0,0,0,0.1);*/
+  background: #fff;
+  box-shadow: 0 3px 10px -2px rgba(0,0,0,0.1);
   -webkit-tap-highlight-color: transparent;
 }
 #faq ul li + li {
-  margin-top: 15px;
+  margin-top: 15px;/*gap between two h2*/
 }
 #faq ul li:last-of-type {
   padding-bottom: 0;
@@ -153,7 +153,7 @@ section.faq {
 #faq ul li i {
   position: absolute;
   transform: translate(-6px, 0);
-  margin-top: 28px;
+  margin-top: 28px; /*location of the arrow*/
   right: 15px;
 }
 #faq ul li i:before, ul li i:after {
