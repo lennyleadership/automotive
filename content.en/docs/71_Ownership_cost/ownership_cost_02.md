@@ -81,16 +81,11 @@ Total cash price: $54,305
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2Lexus ES 350 F Sport Handling</h2>
+      <h2>Lexus ES 350 F Sport Handling</h2>
       <p>
 True cost to own: $59,569  
-
-Total cash price: $54,305
-
-<figure>
-  <img width = "540" src = "/docs/images/Screenshot 2023-07-10 230215.png"/>
-  <figcaption class = "bottom"></figcaption>
-</figure>      
+<br>Total cash price: $54,305
+<br><img width = "540" src = "/docs/images/Screenshot 2023-07-10 230215.png"/>
       </p>
     </li>
     <li>
