@@ -39,7 +39,7 @@ Data for Kia Carnival is not available.
     </p></td>
     <td><p>$28,278
     </p></td>
-    <td><p>sentence right.
+    <td><p>84.1%
     </p></td>  
   </tr>
   <tr>
@@ -49,7 +49,7 @@ Data for Kia Carnival is not available.
     </p></td>
     <td><p>$36,293
     </p></td>
-    <td><p> sentence right.
+    <td><p>77.4%
     </p></td>
   </tr>
   <tr>
@@ -59,17 +59,17 @@ Data for Kia Carnival is not available.
     </p></td>
     <td><p>$24,298
     </p></td>
-    <td><p> sentence right.
+    <td><p>90.8%
     </p></td>
   </tr>
   <tr>
-    <td><p>sentence left
+    <td><p>
     </p></td>
-    <td><p> sentence right.
+    <td><p>
     </p></td>
-    <td><p>sentence left
+    <td><p>
     </p></td>
-    <td><p> sentence right.
+    <td><p>
     </p></td>
   </tr>
 </tbody>
