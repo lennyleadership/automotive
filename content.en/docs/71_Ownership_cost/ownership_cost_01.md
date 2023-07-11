@@ -85,12 +85,12 @@ $11,669.75/year
   </td>
   <td style = "border-style: none">
   <p>
-$12,934.78
+$12,934.78/year
   </p>  
   </td>  
   <td style = "border-style: none">
   <p>
-$8,928.35
+$8,928.35/year
   </p>  
   </td>
   </tr>
@@ -474,3 +474,7 @@ $469.07
 </table>
 
 *Cost is representative of owning or leasing a vehicle for 5 years.
+
+Reference:
+
+<a href = "https://carcosts.caa.ca/" target="_blank" rel="noopener noreferrer">CAA | Driving Costs Calculator</a>
