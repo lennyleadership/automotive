@@ -31,6 +31,11 @@ Near ZIP: 58067
 </figure>
 
 <figure>
+  <img width = "540" src = "/docs/images/Screenshot 2023-07-11 130112.png"/>
+  <figcaption class = "bottom">2023 Kia Carnival LX</figcaption>
+</figure>
+
+<figure>
   <img width = "540" src = "/docs/images/Screenshot 2023-07-11 124050.png"/>
   <figcaption class = "bottom">2023 Kia Carnival LX+</figcaption>
 </figure>
@@ -59,25 +64,6 @@ Data for 2023 Jetta Sedan S 4dr (1.5L 4cyl Turbo 8A)  is not available.
     <li>
       <input type="checkbox" checked>
       <i></i>
-      <h2>Lexus ES 350 F Sport Handling</h2>
-      <p>
-True cost to own: US$59,569  
-<br>Total cash price: US$54,305
-<br><br><img src = "/docs/images/Screenshot 2023-07-10 230215.png"/>
-      </p>
-    </li>
-    <li>
-      <input type="checkbox" checked>
-      <i></i>
-      <h2>2023 Kia Carnival LX+</h2>
-      <p>True cost to own: US$49,951
-      <br>Total cash price: US$38,994
-      <br><br><img src = "/docs/images/Screenshot 2023-07-11 124153.png"/>
-      </p>
-    </li>
-    <li>
-      <input type="checkbox" checked>
-      <i></i>
       <h2>2023 CX-50 SUV S Preferred 4dr SUV AWD (2.5L 4cyl 6A)</h2>
       <p>True cost to own: US$
       <br>Total cash price: US$
@@ -87,10 +73,37 @@ True cost to own: US$59,569
     <li>
       <input type="checkbox" checked>
       <i></i>
+      <h2>2023 Carnival Minivan LX 4dr Minivan (3.5L 6cyl 8A)</h2>
+      <p>True cost to own: US$49,126
+      <br>Total cash price: US$38,085
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 130329.png"/>
+      </p>
+    </li>    
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2>2023 Kia Carnival LX+ 4dr Minivan (3.5L 6cyl 8A)</h2>
+      <p>True cost to own: US$49,951
+      <br>Total cash price: US$38,994
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 124153.png"/>
+      </p>
+    </li>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2>Lexus ES 350 F Sport Handling</h2>
+      <p>True cost to own: US$59,569  
+      <br>Total cash price: US$54,305
+      <br><br><img src = "/docs/images/Screenshot 2023-07-10 230215.png"/>
+      </p>
+    </li>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
       <h2></h2>
-      <p>True cost to own: US$41,611
-      <br>Total cash price: US$33,341
-      <br><br><img src = "/docs/images/Screenshot 2023-07-11 125529.png"/>
+      <p>True cost to own: US$
+      <br>Total cash price: US$
+      <br><br><img src = "/docs/images/"/>
       </p>
     </li>
   </ul>
