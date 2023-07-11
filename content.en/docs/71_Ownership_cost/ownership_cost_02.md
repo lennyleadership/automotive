@@ -178,8 +178,8 @@ section.faq {
   margin: 0;
   /*padding-bottom: 4px;*/
   /*padding-top: 18px;*/
-  background: #fff;
-  box-shadow: 0 3px 10px -2px rgba(0,0,0,0.1);
+  /*background: #fff;*/
+  /*box-shadow: 0 3px 10px -2px rgba(0,0,0,0.1);*/
   -webkit-tap-highlight-color: transparent;
 }
 #faq ul li + li {
