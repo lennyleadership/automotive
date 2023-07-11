@@ -24,15 +24,17 @@ City vs highway mileage: 30:70
 Current fuel price (per litre): $1.57
 
 <table>
-<colgroup><col style="width: 50%"/>
-<col style="width: 25%"/>
-<col style="width: 25%"/>
+<colgroup><col style="width: 40%"/>
+<col style="width: 20%"/>
+<col style="width: 20%"/>
+<col style="width: 20%"/>
 </colgroup>
 <thead>
   <tr VALIGN=TOP style="text-align:left"  class="header">
     <th><p>Factors</p></th>
     <th><p>2023 Mazda CX-50 GT AWD</p></th>
     <th><p>2023 Lexus ES 350 F Sport Design</p></th>
+    <th><p>2023 Kia Carnival EX+</p></th>    
   </tr>
 <tbody VALIGN=TOP>
   <tr>
@@ -51,6 +53,11 @@ $10,203.84/year
 $13,002.05/year
   </p>  
   </td>
+  <td style = "border-style: none">
+  <p>
+$12,934.78
+  </p>  
+  </td>  
   </tr>
   <tr>
   <td style = "border-style: none">
@@ -63,6 +70,11 @@ Total cost per km
 $0.51
   </p>  
   </td>
+  <td style = "border-style: none">
+  <p>
+$0.65
+  </p>  
+  </td>  
   <td style = "border-style: none">
   <p>
 $0.65
@@ -85,6 +97,11 @@ Average fuel economy (L/100km)
 8.52
   </p>  
   </td>  
+  <td style = "border-style: none">
+  <p>
+9.86
+  </p>  
+  </td>  
   </tr>
   <tr>
   <td style = "border-style: none">
@@ -100,6 +117,11 @@ $2,655
   <td style = "border-style: none">
   <p>
 $2,680.17
+  </p>  
+  </td>
+  <td style = "border-style: none">
+  <p>
+$3,101.70
   </p>  
   </td>
   </tr>
@@ -119,6 +141,11 @@ $3,983.20
 $5,707.00
   </p>  
   </td>
+  <td style = "border-style: none">
+  <p>
+$5,785.60
+  </p>  
+  </td>
   </tr>
   <tr>
   <td style = "border-style: none">
@@ -136,12 +163,22 @@ $1,103.64
 $1,867.03
   </p>  
   </td>
+  <td style = "border-style: none">
+  <p>
+$1,474.30
+  </p>  
+  </td>
   </tr>
   <tr>
   <td style = "border-style: none">
   <p>
 License and registration fees
   </p>
+  </td>
+  <td style = "border-style: none">
+  <p>
+$130.40
+  </p>  
   </td>
   <td style = "border-style: none">
   <p>
@@ -170,6 +207,11 @@ Insurance costs
 $1,300.40
   </p>  
   </td>
+  <td style = "border-style: none">
+  <p>
+$1,258.81
+  </p>  
+  </td>
   </tr>
   <tr>
   <td style = "border-style: none">
@@ -185,6 +227,11 @@ $713.8
   <td style = "border-style: none">
   <p>
 $861.14
+  </p>  
+  </td>
+  <td style = "border-style: none">
+  <p>
+$774.13
   </p>  
   </td>
   </tr>
