@@ -72,7 +72,6 @@ True cost to own: US$59,569
       <input type="checkbox" checked>
       <i></i>
       <h2></h2>
-      <p>
       <p>True cost to own: US$
       <br>Total cash price: US$
       <br><br><img src = "/docs/images/"/>
@@ -82,7 +81,6 @@ True cost to own: US$59,569
       <input type="checkbox" checked>
       <i></i>
       <h2></h2>
-      <p>
       <p>True cost to own: US$
       <br>Total cash price: US$
       <br><br><img src = "/docs/images/"/>
@@ -123,7 +121,7 @@ section.carlist {
 #carlist h2 {
   color: #cc071e;
   font-size: 17px; /*20*/
-  line-height: 5px;/*34*/
+  line-height: 20px;/*34 it determines the height of h2*/
   text-align: left;
   padding: 15px 15px 0; /*15px 15px 0*/
   text-transform: none;
@@ -181,7 +179,7 @@ section.carlist {
 #carlist ul li i {
   position: absolute;
   transform: translate(-6px, 0);
-  margin-top: 28px; /*location of the arrow*/
+  margin-top: 18px; /*28 location of the arrow*/
   right: 15px;
 }
 #carlist ul li i:before, ul li i:after {
