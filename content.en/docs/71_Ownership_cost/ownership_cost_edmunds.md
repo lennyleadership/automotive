@@ -20,6 +20,68 @@ Near ZIP: 58067
 
 *Based on a 5-year estimate with 15,000 miles driven per year.  
 
+<table >
+<caption style="text-align:left", align = "top"><b>5 Year Ownership Cost</b></caption>
+<colgroup><col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+  <tr VALIGN=TOP style="text-align:left"  class="header">
+    <th><p>Model</p></th>
+    <th><p>New Price</p></th>
+    <th><p>5 Year Ownership Cost</p></th>    
+    <th><p>Cost / Price Ratio</p></th>
+  </tr>
+</thead>
+<tbody VALIGN=TOP>
+  <tr>
+    <td><p>Mazda CX-5
+    </p></td>
+    <td><p>$29,833
+    </p></td>
+    <td><p>$39,722
+    </p></td>
+    <td><p>
+    </p></td>  
+  </tr>
+  <tr>
+    <td><p>Lexus ES 350 F Sport Handling
+    </p></td>
+    <td><p>$54,305
+    </p></td>
+    <td><p>$59,569
+    </p></td>
+    <td><p>77.4%
+    </p></td>
+  </tr>
+  <tr>
+    <td><p>Kia Carnival LX
+    </p></td>
+    <td><p>$38,085
+    </p></td>
+    <td><p>$49,126
+    </p></td>
+    <td><p>
+    </p></td>
+  </tr>
+  <tr>
+    <td><p>Kia Carnival LX+
+    </p></td>
+    <td><p>$38,994
+    </p></td>
+    <td><p>$49,951
+    </p></td>
+    <td><p>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
 <figure>
   <img width = "540" src = "/docs/images/Screenshot 2023-07-10 224520.png"/>
   <figcaption class = "bottom">2023 Mazda CX-5 2.5L AWD</figcaption>
