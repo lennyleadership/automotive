@@ -14,6 +14,8 @@ toc: true
 
 Reference: <a href = "" target="_blank" rel="noopener noreferrer">CarEdge | </a>
 
+Data for Kia Carnival is not available.
+
 <!--more-->
 ---
 
@@ -48,7 +50,7 @@ Reference: <a href = "" target="_blank" rel="noopener noreferrer">CarEdge | </a>
       <br>A Volkswagen Jetta will depreciate 17% after 5 years and have a 5 year resale value of &dollar;22,274. The chart below shows the expected depreciation for the next 10 years. These results are for vehicles in good condition, averaging 12,000 miles per year. It also assumes a selling price of &dollar;26,752 when new. Enter your purchase price, expected ownership period and estimated miles driven annually. Our depreciation calculator will predict an expected resale value for the Volkswagen Jetta. If you purchase a used Volkswagen Jetta that is 2 years old, then you could save &dollar;3,809 compared to buying new, and still have a relatively new model with plenty of useful life remaining. If you plan to keep this vehicle for 3 years then your total cost of depreciation would be &dollar;669. 
       <br><br><img src = "/docs/images/Screenshot 2023-07-11 133810.png"/>
       <br><br><img src = "/docs/images/Screenshot 2023-07-11 133828.png"/>
-      <br><a href = "https://caredge.com/volkswagen/jetta" target="_blank" rel="noopener noreferrer">Jetta</a>
+      <br><a href = "https://caredge.com/volkswagen/jetta" target="_blank" rel="noopener noreferrer">CarEdge | Jetta</a>
       </p>
     </li>
     <li>
@@ -57,6 +59,24 @@ Reference: <a href = "" target="_blank" rel="noopener noreferrer">CarEdge | </a>
       <h2></h2>
       <p>
       <br><br><img src = "/docs/images/"/>
+      </p>
+    </li>
+    <li>
+      <input type="checkbox" checked>
+      <i></i>
+      <h2>Lexus ES 350</h2>
+      <p>The average cost of owning a Lexus ES 350 for 5 years is $36,293. This total will vary per vehicle, driver and location. 
+      <br><b>Depreciation</b>
+      <br>An Lexus ES 350 will depreciate in value by &dollar;12,788 after 5 years. When new, a typically-equipped Lexus ES 350 sells for &dollar;46,912 on average. After 5 years of depreciation, the average residual value will be &dollar;34,124.
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 135050.png"/>
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 135115.png"/>
+      <br>If you purchase a used Lexus ES 350 that is 2 years old, then you could save &dollar;3,284 compared to buying new, and still have a relatively new model with plenty of useful life remaining. If you plan to keep this vehicle for 3 years then your total cost of depreciation would be &dollar;9,504. 
+      <br><b>Maintenance</b>
+      <br>Maintenance and repair costs for a Lexus ES 350 will amount to $1,556 after 5 years.
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 135432.png"/>
+      <br><br><img src = "/docs/images/Screenshot 2023-07-11 135505.png"/>
+      <br><b>Fuel Economy</b>
+      <br>An Lexus ES 350 gets an average of 26 MPG, which will cost a total of &dollar;6,930 for fuel after 5 years, or about &dollar;1,386 annually. These estimates are based on recently collected national average fuel prices, assuming 12,000 miles driven per year - 55% city and 45% highway. 
       </p>
     </li>
     <li>
