@@ -12,6 +12,16 @@ series:
 toc: true
 ---
 
+Basic information:
+
+Near ZIP: 58067
+
+*Based on a 5-year estimate with 15,000 miles driven per year.
+
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2023-07-10 224520.png"/>
+  <figcaption class = "bottom">Mazda CX-5 2.5L AWD</figcaption>
+</figure>
 
 <!--more-->
 ---
@@ -25,6 +35,10 @@ toc: true
 
 <!-- Tab content -->
 <div id="car01" class="tabcontent" style="display:block">
+
+True cost to own: $39,722  
+
+Total cash price: $29,833 
 
 <figure>
   <img width = "540" src = "/docs/images/Screenshot 2023-07-10 224158.png"/>
