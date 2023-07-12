@@ -46,7 +46,7 @@ Current fuel price (per litre): $1.57
     <th><p>2023 Kia Carnival EX+</p></th>    
     <th><p>2023 Volkswagen Jetta Comfortline</p></th>
   </tr>
-<tbody VALIGN=TOP style="width: 100%; font-size: 0.5rem">
+<tbody VALIGN=TOP style="width: 100%; font-size: 0.6rem">
   <tr>
   <td style = "border-style: none">
   <p>
