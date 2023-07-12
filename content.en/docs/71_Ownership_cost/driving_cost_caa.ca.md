@@ -23,7 +23,7 @@ Annual mileage: 20,000 km
 City vs highway mileage: 30:70  
 Current fuel price (per litre): $1.57
 
-<table style="width: 100%; font-size: 0.7rem"/>
+<table style="width: 100%"/>
 <colgroup><col style="width: 20%"/>
 <col style="width: 10%"/>
 <col style="width: 10%"/>
@@ -34,7 +34,7 @@ Current fuel price (per litre): $1.57
 <col style="width: 10%"/>
 <col style="width: 10%"/>
 </colgroup>
-<thead>
+<thead style="font-size: 0.5rem">
   <tr VALIGN=TOP style="text-align:left"  class="header">
     <th><p>Factors</p></th>
     <th><p>2023 Mazda CX-50 GT AWD</p></th>
@@ -46,7 +46,7 @@ Current fuel price (per litre): $1.57
     <th><p>2023 Kia Carnival EX+</p></th>    
     <th><p>2023 Volkswagen Jetta Comfortline</p></th>
   </tr>
-<tbody VALIGN=TOP>
+<tbody VALIGN=TOP style="width: 100%; font-size: 0.5rem">
   <tr>
   <td style = "border-style: none">
   <p>
