@@ -43,7 +43,7 @@ Near ZIP: 58067
     </p></td>
     <td><p>$39,722
     </p></td>
-    <td><p>
+    <td><p>133%
     </p></td>  
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Near ZIP: 58067
     </p></td>
     <td><p>$59,569
     </p></td>
-    <td><p>
+    <td><p>110%
     </p></td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ Near ZIP: 58067
     </p></td>
     <td><p>$49,126
     </p></td>
-    <td><p>
+    <td><p>129%
     </p></td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ Near ZIP: 58067
     </p></td>
     <td><p>$49,951
     </p></td>
-    <td><p>
+    <td><p>128%
     </p></td>
   </tr>
 </tbody>
